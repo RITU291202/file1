@@ -1,2 +1,2 @@
 # file1
-this is my first git repository.
+this is my git repository.
